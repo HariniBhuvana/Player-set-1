@@ -1,11 +1,10 @@
-package Guvi;
 import java.util.Scanner;
 import java.util.Arrays;
 import java.io.*;
 public class Problem4 {
 		 int v1,v2,wt; 
 		}
-		class kruskal
+		class Hari
 		{
 		public static <E> void main(String args[])throws IOException 
 		{ 
@@ -54,6 +53,6 @@ public class Problem4 {
 		    min+=ed[i].wt;
 		 }
 		}
-		System.out.println("MINIMUM COST = " +min);
+		System.out.println("Minimum cost= " +min);
 		}
 		}
